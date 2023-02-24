@@ -1,4 +1,4 @@
 version: 1.2
 notebooks:
-  - name: simple
+  - name: simpler
     path: /notebook.ipynb
